@@ -9,7 +9,7 @@ import ua_generator
 
 from colr import Colr
 from datetime import datetime
-from projects.solver import Solver
+from solver import Solver
 from concurrent.futures import ThreadPoolExecutor
 
 L = '\033[90m'  # Grey
