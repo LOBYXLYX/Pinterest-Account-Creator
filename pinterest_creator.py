@@ -20,7 +20,7 @@ W = '\033[0m'   # White
 
 ACCOUNT_USERNAME = 'Patikk'
 
-FOLLOW_USER = True
+FOLLOW_USER = False
 PROFILE_USER_OPTIONS = '{"options":{"user_id":"1081638172913321258"},"context":{}}'
 PROFILE_USERNAME = '/kaxygutky/'
 
